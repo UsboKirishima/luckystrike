@@ -1,0 +1,23 @@
+{
+  "name": "luckystrike",
+  "version": "1.0.1",
+  "main": "index.js",
+  "repository": "https://github.com/UsboKirishima/luckystrike",
+  "author": "UsboKirishima <usbertibox@gmail.com>",
+  "license": "MIT",
+  "keywords": [
+    "logger",
+    "console-logger",
+    "console"
+  ],
+  "scripts": {
+    "start": "node ./dist/index.js",
+    "build": "tsc",
+    "test": "node test/index.test.js"
+  },
+  "dependencies": {
+    "@types/colors": "^1.2.1",
+    "colors": "^1.4.0",
+    "ms": "^2.1.3"
+  }
+}
