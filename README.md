@@ -2,6 +2,6 @@
 LuckyStrike
 </h1>
 
-<p align="center">Git tooling</p>
+<p align="center"> The now solution for a git client.</p>
 
 
